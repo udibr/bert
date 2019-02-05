@@ -1,6 +1,7 @@
 # How BERT works
-https://medium.com/@mromerocalvo/dissecting-bert-part1-6dcf5360b07f
-https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73
+[Dissecting BERT Part 1](https://medium.com/@mromerocalvo/dissecting-bert-part1-6dcf5360b07f)
+[2](https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73)
+[The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
 
 # Code
 ## torch
